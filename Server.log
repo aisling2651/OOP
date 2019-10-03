@@ -1,0 +1,634 @@
+Apr 25, 2019 1:48:16 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 1:48:32 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 1:48:41 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 1:48:41 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 1:49:00 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,title
+Apr 25, 2019 1:49:07 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 2:21:05 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 2:21:12 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:21:12 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 2:37:01 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 2:37:46 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 2:37:51 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:37:51 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 2:37:53 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 2:50:28 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 2:50:32 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:50:32 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 2:50:36 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 2:50:46 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:50:46 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 25, 2019 2:50:55 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hi
+Apr 25, 2019 2:51:03 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 25, 2019 2:54:24 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:54:24 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 25, 2019 2:54:42 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 25, 2019 2:55:30 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:55:30 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 4
+Apr 25, 2019 2:55:42 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 4 is terminating .....
+Apr 25, 2019 2:56:05 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 2:56:05 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 5
+Apr 25, 2019 2:56:30 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hello
+Apr 25, 2019 2:57:07 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hello
+Apr 25, 2019 2:57:14 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hell
+Apr 25, 2019 2:57:22 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 5 is terminating .....
+Apr 25, 2019 3:10:22 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 3:10:27 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 3:10:27 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 3:10:48 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,askdlh
+Apr 25, 2019 3:10:55 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hell
+Apr 25, 2019 3:11:01 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,12093
+Apr 25, 2019 3:11:15 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,-0!@£$
+Apr 25, 2019 3:11:24 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,John
+Apr 25, 2019 3:11:33 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,Scott
+Apr 25, 2019 3:11:50 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,Ridley Scott
+Apr 25, 2019 3:12:09 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYRUNTIMEGREATERTHAN,300
+Apr 25, 2019 3:12:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYYEAR,1990
+Apr 25, 2019 3:12:30 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYYEAR,300
+Apr 25, 2019 3:12:42 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 3:13:52 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 3:14:03 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 3:14:03 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 3:14:10 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,john
+Apr 25, 2019 3:14:25 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,ridley scott
+Apr 25, 2019 3:14:30 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 3:14:51 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 3:14:54 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 3:14:54 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 3:15:01 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,ridley
+Apr 25, 2019 3:15:18 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 3:58:05 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 3:58:12 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 3:58:12 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 3:58:21 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYRUNTIMEGREATERTHAN,100
+Apr 25, 2019 3:59:13 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 3:59:16 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 3:59:16 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 3:59:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYRUNTIMEGREATERTHAN,100
+Apr 25, 2019 4:00:42 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYYEAR,123
+Apr 25, 2019 4:00:49 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYYEAR,hello
+Apr 25, 2019 4:01:14 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 25, 2019 4:01:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 25, 2019 4:01:35 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 25, 2019 4:02:25 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 25, 2019 4:02:28 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 25, 2019 4:02:28 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 25, 2019 4:02:40 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 25, 2019 4:03:24 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 8:20:53 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 27, 2019 8:21:00 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:21:00 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 27, 2019 8:21:14 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENREDIR,1
+Apr 27, 2019 8:21:21 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:21:33 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,tit
+Apr 27, 2019 8:21:40 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:21:46 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:22:00 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 27, 2019 8:22:17 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 8:23:04 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:23:04 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 27, 2019 8:24:50 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~Hello~Happy, Drama~Liam Clarke~100~1995~Liam Clarke,  Aishling,  Lala
+Apr 27, 2019 8:25:03 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 8:25:03 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 27, 2019 8:31:39 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:31:39 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 27, 2019 8:31:46 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,tit
+Apr 27, 2019 8:31:46 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 27, 2019 8:33:36 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:33:36 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 4
+Apr 27, 2019 8:33:44 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:33:44 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 4 is terminating .....
+Apr 27, 2019 8:36:40 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:36:40 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 5
+Apr 27, 2019 8:36:45 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hell
+Apr 27, 2019 8:36:55 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 5 is terminating .....
+Apr 27, 2019 8:37:58 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:37:58 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 6
+Apr 27, 2019 8:38:04 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hello
+Apr 27, 2019 8:38:15 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,tit
+Apr 27, 2019 8:38:15 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 6 is terminating .....
+Apr 27, 2019 8:38:42 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:38:42 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 7
+Apr 27, 2019 8:38:50 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:38:55 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:39:04 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 7 is terminating .....
+Apr 27, 2019 8:39:48 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:39:48 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 8
+Apr 27, 2019 8:40:06 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 27, 2019 8:40:16 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 8 is terminating .....
+Apr 27, 2019 8:42:13 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:42:13 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 9
+Apr 27, 2019 8:42:20 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 8:42:20 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 9 is terminating .....
+Apr 27, 2019 8:42:45 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:42:45 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 10
+Apr 27, 2019 8:42:55 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,234
+Apr 27, 2019 8:42:55 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 10 is terminating .....
+Apr 27, 2019 8:43:27 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:43:27 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 11
+Apr 27, 2019 8:43:54 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 11 is terminating .....
+Apr 27, 2019 8:43:55 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:43:55 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 12
+Apr 27, 2019 8:44:00 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:44:05 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 27, 2019 8:44:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYRUNTIMEGREATERTHAN,1994
+Apr 27, 2019 8:44:23 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 12 is terminating .....
+Apr 27, 2019 8:46:09 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 27, 2019 8:46:12 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:46:12 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 27, 2019 8:46:25 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hell
+Apr 27, 2019 8:46:57 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 8:46:58 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 8:46:58 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 27, 2019 8:47:04 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hell
+Apr 27, 2019 8:47:17 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,345
+Apr 27, 2019 8:47:17 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 27, 2019 9:30:14 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 9:30:14 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 27, 2019 9:30:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,34
+Apr 27, 2019 9:30:32 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 27, 2019 9:30:39 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 9:30:39 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 4
+Apr 27, 2019 9:30:41 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 4 is terminating .....
+Apr 27, 2019 9:34:13 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 9:34:13 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 5
+Apr 27, 2019 9:35:06 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 27, 2019 9:35:44 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 5 is terminating .....
+Apr 27, 2019 10:23:05 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 27, 2019 10:23:09 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 10:23:09 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 27, 2019 10:23:14 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 10:23:26 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 10:27:50 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 10:27:50 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 27, 2019 10:27:55 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 10:27:59 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~23~100~[Action,  Crime,  Fantasy]~[Jennifer Garner,  Goran Visnjic,  Kirsten Prout,  Will Yun Lee]~Rob Bowman
+Apr 27, 2019 10:28:26 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,elektra
+Apr 27, 2019 10:28:41 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 10:28:49 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 27, 2019 10:54:16 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 27, 2019 10:54:21 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 10:54:21 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 27, 2019 10:56:21 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 10:57:26 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 10:57:26 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 27, 2019 10:57:29 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 27, 2019 10:57:35 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 10:57:35 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 27, 2019 10:57:50 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYRUNTIMEGREATERTHAN,100
+Apr 27, 2019 10:58:00 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 10:58:12 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~23~100~[[Action,   Crime,   Fantasy]]~[emma, liam, lal]~Rob Bowman
+Apr 27, 2019 10:58:21 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 11:00:09 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 27, 2019 11:04:48 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 11:04:48 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 4
+Apr 27, 2019 11:04:55 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,1234312
+Apr 27, 2019 11:05:09 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,1111111
+Apr 27, 2019 11:05:09 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 4 is terminating .....
+Apr 27, 2019 11:07:16 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 11:07:16 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 5
+Apr 27, 2019 11:07:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,123412
+Apr 27, 2019 11:08:48 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~Lala's Movie~Drama,  Romance~Liam Clarke~90~1999~Liam,  Lala
+Apr 27, 2019 11:08:48 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 5 is terminating .....
+Apr 27, 2019 11:23:21 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 27, 2019 11:23:26 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 11:23:26 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 27, 2019 11:23:52 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~Hi~tete, etr~test~123~1999~li, clc
+Apr 27, 2019 11:23:52 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 11:29:54 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 11:29:54 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 27, 2019 11:30:14 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~test~yesy~test~test~262~test
+Apr 27, 2019 11:30:14 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 27, 2019 11:33:36 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 27, 2019 11:33:42 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 11:33:42 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 27, 2019 11:34:12 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~tet~tes, set~john~0392~1999~kdo, sdpf, sa
+Apr 27, 2019 11:34:23 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 27, 2019 11:37:20 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 27, 2019 11:37:20 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 27, 2019 11:37:25 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,23
+Apr 27, 2019 11:37:37 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~23~120~[[[Action,    Crime,    Fantasy]]]~[[emma,  liam,  lal]]~Rob Bowman
+Apr 27, 2019 11:37:47 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,1111111
+Apr 27, 2019 11:37:52 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 28, 2019 7:39:51 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 28, 2019 7:39:57 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:39:57 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 28, 2019 7:40:04 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,hell
+Apr 28, 2019 7:40:19 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 28, 2019 7:40:25 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 28, 2019 7:40:45 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:40:45 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 28, 2019 7:41:22 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~Hello ~weipj, dsakq, ewq~Lim Clarke~120~1992~lim, asd, asdw
+Apr 28, 2019 7:41:37 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,543
+Apr 28, 2019 7:42:01 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~543~Jin hun~[Comedy,  Music]~[Whoopi Goldberg,  Maggie Smith,  Kathy Najimy,  Wendy Makkena]~Emile Ardolino
+Apr 28, 2019 7:42:17 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 28, 2019 7:44:27 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:44:27 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 28, 2019 7:44:40 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENREDIR,1
+Apr 28, 2019 7:44:47 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 28, 2019 7:45:15 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYYEAR,1999
+Apr 28, 2019 7:45:34 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 28, 2019 7:46:07 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:46:07 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 4
+Apr 28, 2019 7:46:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,000303030
+Apr 28, 2019 7:46:30 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,ri
+Apr 28, 2019 7:54:21 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 28, 2019 7:54:34 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 28, 2019 7:54:37 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:54:38 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 28, 2019 7:54:44 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,42
+Apr 28, 2019 7:54:59 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 28, 2019 7:56:24 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:56:24 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 28, 2019 7:56:27 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,324
+Apr 28, 2019 7:56:44 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~324~134 min~[Biography,  Drama,  Thriller]~[Liam, Lala]~Paul Greengrass
+Apr 28, 2019 7:56:54 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,232
+Apr 28, 2019 7:57:01 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~232~90~[Comedy,  Drama]~[Jena Malone,  Mandy Moore,  Macaulay Culkin,  Patrick Fugit]~Brian Dannelly
+Apr 28, 2019 7:58:06 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 28, 2019 7:58:09 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 7:58:09 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 28, 2019 7:58:14 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,345
+Apr 28, 2019 7:58:24 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~345~180~[Action,  Drama,  Romance]~[Ben Affleck,  Josh Hartnett,  Kate Beckinsale,  William Lee Scott]~Michael Bay
+Apr 28, 2019 7:58:31 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 28, 2019 7:58:38 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,1
+Apr 28, 2019 7:59:19 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 28, 2019 8:58:53 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 28, 2019 8:58:56 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 8:58:56 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 28, 2019 8:59:18 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: DELETEBYID,23
+Apr 28, 2019 8:59:45 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: WATCHMOVIE,99,15
+Apr 28, 2019 9:00:18 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 9:00:18 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 28, 2019 9:00:20 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 9:00:20 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 28, 2019 9:00:34 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYTITLE,iron man
+Apr 28, 2019 9:01:40 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 9:01:40 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 2 is terminating .....
+Apr 28, 2019 10:15:14 PM BusinessObjects.Server start
+INFO: Server Starting....
+Apr 28, 2019 10:15:18 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:15:18 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 1
+Apr 28, 2019 10:15:41 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 10:15:41 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 1 is terminating .....
+Apr 28, 2019 10:15:43 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:15:43 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 2
+Apr 28, 2019 10:25:15 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYDIRECTOR,!
+Apr 28, 2019 10:28:16 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYRUNTIMEGREATERTHAN,?
+Apr 28, 2019 10:31:13 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,!
+Apr 28, 2019 10:32:31 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:32:31 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 3
+Apr 28, 2019 10:32:36 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENREDIR,102
+Apr 28, 2019 10:32:42 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDRAND,
+Apr 28, 2019 10:32:49 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 10:32:49 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 3 is terminating .....
+Apr 28, 2019 10:33:44 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:33:44 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 4
+Apr 28, 2019 10:33:48 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: This7
+Apr 28, 2019 10:34:56 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 10:34:56 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 4 is terminating .....
+Apr 28, 2019 10:34:57 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:34:57 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 5
+Apr 28, 2019 10:37:57 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: ADDMOVIE~hg~fg, fg~asds~sdf~2345~h, h
+Apr 28, 2019 10:43:09 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,19
+Apr 28, 2019 10:44:55 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 10:44:55 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 5 is terminating .....
+Apr 28, 2019 10:44:56 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:44:56 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 6
+Apr 28, 2019 10:45:01 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,!
+Apr 28, 2019 10:46:26 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:46:26 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 7
+Apr 28, 2019 10:46:31 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,4
+Apr 28, 2019 10:48:23 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,19
+Apr 28, 2019 10:48:27 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~19~a~[Comedy]~[Melissa McCarthy,  Susan Sarandon,  Kathy Bates,  Allison Janney]~Ben Falcone
+Apr 28, 2019 10:49:35 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: FINDBYID,19
+Apr 28, 2019 10:49:42 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: update~19~a~[?, ?, ?]~[[Melissa McCarthy,   Susan Sarandon,   Kathy Bates,   Allison Janney]]~Ben Falcone
+Apr 28, 2019 10:54:15 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: WATCHMOVIE,2,2
+Apr 28, 2019 10:54:43 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: WATCHMOVIE,1,#
+Apr 28, 2019 10:56:36 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:56:36 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 8
+Apr 28, 2019 10:56:46 PM BusinessObjects.Server$ClientHandler run
+WARNING: IOException caught
+Apr 28, 2019 10:56:46 PM BusinessObjects.Server$ClientHandler run
+WARNING: Handler for Client 8 is terminating .....
+Apr 28, 2019 10:56:47 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:56:47 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 9
+Apr 28, 2019 10:56:50 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: DELETEBYID,533
+Apr 28, 2019 10:57:02 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: DELETEBYID,?
+Apr 28, 2019 10:57:10 PM BusinessObjects.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 28, 2019 10:57:10 PM BusinessObjects.Server start
+INFO: ClientHandler started in thread for client: 10
+Apr 28, 2019 10:57:13 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: DELETEBYID,1
+Apr 28, 2019 11:12:35 PM BusinessObjects.Server$ClientHandler run
+INFO: Command received from client: RECOMMENDBYGENRE,102

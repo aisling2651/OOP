@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-24T11:46:08</date>
+  <millis>1556102768145</millis>
+  <sequence>0</sequence>
+  <logger>server</logger>
+  <level>SEVERE</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2019-04-24T11:46:08</date>
+  <millis>1556102768180</millis>
+  <sequence>1</sequence>
+  <logger>server</logger>
+  <level>WARNING</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2019-04-24T11:46:08</date>
+  <millis>1556102768182</millis>
+  <sequence>2</sequence>
+  <logger>server</logger>
+  <level>INFO</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-24T11:58:29</date>
+  <millis>1556103509296</millis>
+  <sequence>0</sequence>
+  <logger>./BusinessObjects/Server.java</logger>
+  <level>SEVERE</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2019-04-24T11:58:29</date>
+  <millis>1556103509330</millis>
+  <sequence>1</sequence>
+  <logger>./BusinessObjects/Server.java</logger>
+  <level>WARNING</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2019-04-24T11:58:29</date>
+  <millis>1556103509331</millis>
+  <sequence>2</sequence>
+  <logger>./BusinessObjects/Server.java</logger>
+  <level>INFO</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-24T12:00:55</date>
+  <millis>1556103655523</millis>
+  <sequence>0</sequence>
+  <logger>%t/Server.java</logger>
+  <level>SEVERE</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2019-04-24T12:00:55</date>
+  <millis>1556103655556</millis>
+  <sequence>1</sequence>
+  <logger>%t/Server.java</logger>
+  <level>WARNING</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2019-04-24T12:00:55</date>
+  <millis>1556103655557</millis>
+  <sequence>2</sequence>
+  <logger>%t/Server.java</logger>
+  <level>INFO</level>
+  <class>BusinessObjects.ServerLogging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
